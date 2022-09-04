@@ -1,21 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=red&size=28&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Meu+Nome+%C3%A9+Luan+Lopes+Cabral;Tenho+23+Anos;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=white&size=28&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Meu+Nome+%C3%A9+Luan+Lopes+Cabral;Tenho+23+Anos;)](https://git.io/typing-svg)
 - 👋 Hi, I’m Luan Lopes Cabral
 - 👀 I’m interested in Computational Linguistics and Web Development
 - 🌱 I’m currently learning HTML5, CSS, JavaScript and Python
 
-<p margin-top= "25px" align=left>
--  Estudando "Desenvolvimento Web"
-  
-</p>
-<p align=left>
--  Acadêmico de Letras-Português na Universidade Federal da Paraíba
-  
-</p>
-<p align=left>
--  Tenho interesse na área de Linguística Computacional
-  
-</p>
-<p align=left>
+
+<div align="center">
+  <a href="https://github.com/lulkabral">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lulkabral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulkabral&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div>
+
+
 
 
 </div>

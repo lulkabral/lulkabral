@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=28&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Meu+Nome+%C3%A9+Luan+Lopes+Cabral;Tenho+23+Anos;)](https://git.io/typing-svg)
-- 😄 Hi, I’m Luan Lopes Cabral
-- 👀 I’m interested in Computational Linguistics and Web Development
-- 💻 I’m currently learning HTML5, CSS, JavaScript and Python
-- 📚 Portuguese Teacher
+
+- 😄 **Hi, I’m Luan Lopes Cabral;**
+- 👀 **I’m interested in Computational Linguistics and Web Development;**
+- 💻 **I’m currently learning HTML5, CSS, JavaScript and Python;**
+- 📚 **Portuguese Teacher.**
+
 
 
 <div align="center">

@@ -1,6 +1,23 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=red&size=28&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Meu+Nome+%C3%A9+Luan+Lopes+Cabral;Tenho+23+Anos;)](https://git.io/typing-svg)
 - 👋 Hi, I’m Luan Lopes Cabral
 - 👀 I’m interested in Computational Linguistics and Web Development
 - 🌱 I’m currently learning HTML5, CSS, JavaScript and Python
+
+<p margin-top= "25px" align=left>
+-  Estudando "Desenvolvimento Web"
+  
+</p>
+<p align=left>
+-  Graduando em Letras-Português na Universidade Federal da Paraíba
+  
+</p>
+<p align=left>
+-  Tenho interesse na área de Linguística Computacional
+  
+</p>
+<p align=left>
+
+
 </div>
   
   ##

@@ -1,13 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=white&size=28&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Meu+Nome+%C3%A9+Luan+Lopes+Cabral;Tenho+23+Anos;)](https://git.io/typing-svg)
-- 👋 Hi, I’m Luan Lopes Cabral
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=28&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Meu+Nome+%C3%A9+Luan+Lopes+Cabral;Tenho+23+Anos;)](https://git.io/typing-svg)
+- 😄 Hi, I’m Luan Lopes Cabral
 - 👀 I’m interested in Computational Linguistics and Web Development
-- 🌱 I’m currently learning HTML5, CSS, JavaScript and Python
+- 💻 I’m currently learning HTML5, CSS, JavaScript and Python
+- 📚 Portuguese Teacher
 
 
 <div align="center">
   <a href="https://github.com/lulkabral">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lulkabral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulkabral&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=lulkabral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <br>
+    <br>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulkabral&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div>
 

@@ -8,7 +8,7 @@
   
 </p>
 <p align=left>
--  Graduando em Letras-Português na Universidade Federal da Paraíba
+-  Acadêmico de Letras-Português na Universidade Federal da Paraíba
   
 </p>
 <p align=left>

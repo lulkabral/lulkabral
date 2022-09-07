@@ -9,13 +9,9 @@
 
 <div align="center">
   <a href="https://github.com/lulkabral">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=lulkabral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <br>
-    <br>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulkabral&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=lulkabral&show_icons=true&theme=draculainclude_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulkabral&layout=compact&langs_count=7&theme=black"/>
 </div>
-<div>
-
 
 
 

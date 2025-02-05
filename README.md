@@ -2,8 +2,10 @@
 
 - 😄 **Hi, I’m Luan Lopes Cabral;**
 - 👀 **I’m interested in Computational Linguistics and Web Development;**
-- 💻 **I’m currently learning HTML5, CSS, JavaScript and Python;**
-- 📚 **Portuguese Teacher.**
+- 💻 **I’m currently learning Front-End Development (HTML5, CSS and JavaScript);**
+- 🚀 **Aspiring Software Engineer**
+- 🎨 **Linguist turned coder, blending language and tech!**
+
 
 
 

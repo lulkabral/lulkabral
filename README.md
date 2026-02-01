@@ -16,10 +16,8 @@ Sou graduado em Letras (Português) pela UFPB e estou unindo a análise linguís
 
 ---
 
-### 📊 Minhas estatísticas:
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lulkabral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
+### 📊 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulkabral&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ### 📫 Vamos conversar?

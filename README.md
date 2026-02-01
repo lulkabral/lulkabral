@@ -6,7 +6,7 @@ Sou graduado em Letras (Português) pela UFPB e estou unindo a análise linguís
 
 ---
 
-### 🛠️ No meu "canivete suíço" tem:
+### 🛠️:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 

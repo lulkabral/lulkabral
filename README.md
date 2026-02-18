@@ -20,11 +20,6 @@ I am graduated in **Modern Languages (Portuguese)** from the Federal University 
 
 ---
 
-### 📊 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulkabral&layout=compact&theme=dark&hide_progress=false" />
-
----
-
 ### 📫 Reach me!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-lopes-cabral-66b416244/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luankabral1504@gmail.com)

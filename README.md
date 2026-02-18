@@ -1,25 +1,34 @@
-# Olá, eu sou o Luan! 👋
+# Hi, I'm Luan! 👋
 
-### 📚 Letras + 🤖 Linguística Computacional + 📊 Ciência de Dados
+### 📚 Linguistics + 📊 Data Science
 
-Sou graduado em Letras (Português) pela UFPB e estou unindo a análise linguística com o poder da tecnologia. Meu foco é entender como a linguagem humana e o processamento de dados se encontram.
+I am graduated in **Modern Languages (Portuguese)** from the Federal University of Paraíba (UFPB) and currently:
+**📚 Data Science Student at Federal University of Mato Grosso do Sul (UFMS)**
+
+---
+### 🛠️ Languages and Tools
+
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 
 ---
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-- 🔭 **Atualmente:** Estudando Processamento de Linguagem Natural (NLP) e análise de dados.
-- 🎓 **Formação:** Letras - Português (UFPB).
-- 📍 **Localização:** João Pessoa, PB.
+### 🛠️ About Me
+* 🔭 **Currently:** Studying **Data Science**, , and Python.
+* 🎓 **Education:** B.A. in Modern Languages(Portuguese) (UFPB) | Data Science (UFMS).
+* 📍 **Location:** João Pessoa, Brazil.
 
 ---
 
-### 📊 Linguagens mais usadas
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lulkabral&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulkabral&layout=compact&theme=dark&hide_progress=false" />
+
 ---
 
-### 📫 Vamos conversar?
-
+### 📫 Reach me!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-lopes-cabral-66b416244/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luankabral1504@gmail.com)
+
+
+
 

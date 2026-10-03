@@ -15,7 +15,7 @@ I am graduated in **Modern Languages (Portuguese)** from the Federal University 
 ---
 
 ### 🛠️ About Me
-* 🔭 **Currently:** Studying **Data Science** and Python.
+* 🔭 **Currently:** Studying Data Science, AI Engineering, and Python.
 * 🎓 **Education:** B.A. in Modern Languages(Portuguese) (UFPB) | Data Science (UFMS).
 * 📍 **Location:** João Pessoa, Brazil.
 

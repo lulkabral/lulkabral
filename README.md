@@ -1,6 +1,6 @@
 # Hi, I'm Luan! 👋
 
-### 📚 Linguistics + 📊 Data Science
+### 📚 **Computational Linguistics | Data Science & AI Engineering**
 
 I am graduated in **Modern Languages (Portuguese)** from the Federal University of Paraíba (UFPB) and currently:
 **📚 Data Science Student at Federal University of Mato Grosso do Sul (UFMS)**
@@ -10,6 +10,7 @@ I am graduated in **Modern Languages (Portuguese)** from the Federal University 
 
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black alt="Linux" />)
 
 ---
 
